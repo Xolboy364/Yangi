@@ -738,4 +738,4 @@ QOLLANMA_MATNI = """
 
 
 def main():
-    return xOSApp("xOS v3.2", "uz.xos.app")
+    return xOSApp()
